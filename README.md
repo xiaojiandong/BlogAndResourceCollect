@@ -12,3 +12,7 @@
 ### [CSS3 filter过滤](http://www.w3cplus.com/css3/ten-effects-with-css3-filter)
 
 ### [常用正则表达式](http://www.w3cfuns.com/notes/18224/287787f41275aaace360c4c3b7d055f7)
+
+### [jquery插件1 - dowebok] (http://www.dowebok.com/)
+### [jquery插件2 - jq22] (http://www.jq22.com/jq2-jq)
+### [开源bootcdn](http://www.bootcdn.cn/)
