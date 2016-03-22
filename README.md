@@ -10,3 +10,5 @@
 ### [Angular Material](https://material.angularjs.org/latest/demo/autocomplete)
 
 ### [CSS3 filter过滤](http://www.w3cplus.com/css3/ten-effects-with-css3-filter)
+
+### [常用正则表达式](http://www.w3cfuns.com/notes/18224/287787f41275aaace360c4c3b7d055f7)
