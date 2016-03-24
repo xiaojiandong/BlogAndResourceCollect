@@ -17,3 +17,5 @@
 ### [jquery插件2 - jq22] (http://www.jq22.com/jq2-jq)
 ### [开源bootcdn](http://www.bootcdn.cn/)
 ### [js设模式](https://github.com/vevHack/JS-Design-Patterns/tree/master/%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1)
+
+### [Angular的路由$routeProvider](http://angularjs.cn/A00a)
