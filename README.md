@@ -21,3 +21,5 @@
 ### [js设模式](https://github.com/vevHack/JS-Design-Patterns/tree/master/%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1)
 
 ### [Angular的路由$routeProvider](http://angularjs.cn/A00a)
+
+### [日常整理的一些网址 - 前端网](http://www.w3cfuns.com/notes/23019/e97848d4e36485417782b85f3d4d2458.html)
