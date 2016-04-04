@@ -26,3 +26,4 @@
 ### [iSlider移动端滑动插件](http://be-fe.github.io/iSlider/demo/index_chinese#demo)
 ### [createjs中文网](http://www.createjs.cc/)
 ### [createjs github](https://github.com/CreateJS/SoundJS)
+### [jquery之家](http://www.htmleaf.com/)
