@@ -25,3 +25,4 @@
 ### [日常整理的一些网址 - 前端网](http://www.w3cfuns.com/notes/23019/e97848d4e36485417782b85f3d4d2458.html)
 ### [iSlider移动端滑动插件](http://be-fe.github.io/iSlider/demo/index_chinese#demo)
 ### [createjs中文网](http://www.createjs.cc/)
+### [createjs github](https://github.com/CreateJS/SoundJS)
