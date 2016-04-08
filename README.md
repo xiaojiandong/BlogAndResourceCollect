@@ -7,6 +7,8 @@
 
 ### [AngularJS实例](http://www.runoob.com/angularjs/angularjs-examples.html)
 
+###[AngularJs YouTube翻墙](https://angularjs.org/)
+
 ### [最后一次说说闭包](http://www.w3cfuns.com/notes/17398/9b28ba7e036240b1252f1c82b9883d94.html)
 
 ### [Angular Material](https://material.angularjs.org/latest/demo/autocomplete)
