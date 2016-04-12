@@ -33,5 +33,6 @@
 
 ###[WebGL中文网](http://www.hewebgl.com/article/getarticle/27)
 ###[node.js 中文网](http://nodejs.cn/)
+###[Node.js API 中文版](http://nodeapi.ucdok.com/#/api/path.html)
 
 ###[thinkjs 中文网](https://thinkjs.org/doc/index.html)
