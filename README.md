@@ -38,3 +38,5 @@
 ###[thinkjs 中文网](https://thinkjs.org/doc/index.html)
 
 ###[360奇舞团](http://www.75team.com/)
+
+###[前端资源教程](http://cnodejs.org/topic/56ef3edd532839c33a99d00e)
