@@ -37,4 +37,4 @@
 
 ###[thinkjs 中文网](https://thinkjs.org/doc/index.html)
 
-###[260奇舞团](http://www.75team.com/)
+###[360奇舞团](http://www.75team.com/)
