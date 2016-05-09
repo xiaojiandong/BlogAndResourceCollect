@@ -41,3 +41,5 @@
 
 ###[前端资源教程](http://cnodejs.org/topic/56ef3edd532839c33a99d00e)
 ###[宁浩](http://ninghao.net/course)
+
+### [react入门](http://www.ruanyifeng.com/blog/2015/03/react.html)
